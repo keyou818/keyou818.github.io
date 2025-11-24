@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ExampleSite</title>
+    <link>https://keyou818.github.io/</link>
+    <description>Recent content on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://keyou818.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://keyou818.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Nov 2025 14:51:17 +0800</lastBuildDate>
+    <atom:link href="https://keyou818.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample</title>
+      <link>https://keyou818.github.io/posts/sample/</link>
+      <pubDate>Thu, 20 Nov 2025 14:51:17 +0800</pubDate>
+      <guid>https://keyou818.github.io/posts/sample/</guid>
+      <description>&lt;h2 id=&#34;sample&#34;&gt;Sample&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://keyou818.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 20 Nov 2025 14:09:55 +0800</pubDate>
+      <guid>https://keyou818.github.io/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;这是我的第一篇文章&#34;&gt;这是我的第一篇文章&lt;/h2&gt;
+&lt;p&gt;欢迎来到我的新博客！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
