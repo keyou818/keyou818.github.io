@@ -2,6 +2,8 @@
 title: "Markdown简单语法"
 date: 2026-11-23T14:22:05+08:00
 draft: false
+categories: ["学习"]
+tags: ["Markdown"]
 ---
 
 一份够用版**Markdown速查**，适合写 Hugo 博客文章。
